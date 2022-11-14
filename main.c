@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <math.h>
 int main(void) {
   float val1, val2, answer;
   char operator;
